@@ -2,7 +2,7 @@
 This repository provides my solution for the 4th Assignment for the course of Text Analytics for the MSc in Data Science at Athens University of Economics and Business.
 
 Practically it is the natural development of the Sentiment Classifier using MLPs project.
-The change from last time is that this project uses bi-directional Recursive Neural Networks (RNNs) implemented in Keras, Tensorflow.
+The change from last time is that this project uses bi-directional Recurrent Neural Networks (RNNs) implemented in Keras, Tensorflow.
 
 All hyper parameters are tuned on the development subset of the dataset.
 
